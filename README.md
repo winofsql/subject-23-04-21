@@ -36,3 +36,6 @@ function sendEmail() {
   }
 }
 ```
+
+![image](https://user-images.githubusercontent.com/1501327/233555656-e533dfe4-81eb-4000-b34d-fe8ca0a5108b.png)
+
