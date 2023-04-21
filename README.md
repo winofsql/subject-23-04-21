@@ -1,4 +1,4 @@
-# subject-23-04-21
+# subject-23-04-21(金)
 
 ```javascript
 function myFunction() {
