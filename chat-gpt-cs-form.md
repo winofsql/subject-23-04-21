@@ -29,7 +29,7 @@
 
 以下は、テキストフィールドで入力可能な処理を追加したC#のコード例です。
 
-```
+```cs
 private void InitializeComponent()
 {
     this.components = new System.ComponentModel.Container();
