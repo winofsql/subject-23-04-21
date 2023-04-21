@@ -5,7 +5,7 @@ function myFunction() {
 
   // 以下のコードは、現在の日付と時刻を電子メールで送信します。
   var now = new Date();
-  GmailApp.sendEmail("doumi@i-seifu.jp", "突然すみません", "こんにちは\nさようなら");  
+  GmailApp.sendEmail("", "突然すみません", "こんにちは\nさようなら");  
   
 }
 
