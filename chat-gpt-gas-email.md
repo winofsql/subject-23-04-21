@@ -12,7 +12,7 @@ function sendEmail() {
 }
 ```
 
-このスクリプトでは、sendEmail 関数を定義しています。recipient、subject、および body 変数を設定して、メールの送信先、件名、および本文を指定します。GmailApp.sendEmail メソッドを使用して、メールを送信します。
+このスクリプトでは、`sendEmail` 関数を定義しています。`recipient`、`subject`、および `body` 変数を設定して、メールの送信先、件名、および本文を指定します。`GmailApp.sendEmail` メソッドを使用して、メールを送信します。
 
 上記のスクリプトを使用する場合、スクリプトエディタで関数を実行することで、指定したメールアドレスにメールが送信されます。
 
